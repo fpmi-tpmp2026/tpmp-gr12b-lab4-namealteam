@@ -15,6 +15,3 @@
 - [Дополнительная спецификация](https://github.com/fpmi-tpmp2026/tpmp-gr12b-lab4-namealteam/wiki/Задание‐4‐База‐данных)
 - [Репозиторий проекта](https://github.com/fpmi-tpmp2026/tpmp-gr12b-lab4-namealteam/wiki/Бюро)
 - [Протокол выполнения](https://github.com/fpmi-tpmp2026/tpmp-gr12b-lab4-namealteam/wiki/Задание‐2‐Kanban)
-
-### GitHub Pages:
-- [Локальная версия сайта](./site/index.html)
