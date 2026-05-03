@@ -11,6 +11,9 @@
 - [Таблица `routes`](../screenshots/db_routes.png)
 - [Таблица `crew`](../screenshots/db_crew.png)
 - [Таблица `trips`](../screenshots/db_trips.png)
+- [SELECT-отчёты в консоли](../screenshots/lab4-select-reports.png)
+- [Unit-тесты и coverage](../screenshots/lab4-coverage.png)
+- [Предпросмотр GitHub Pages](../screenshots/lab4-pages-preview.png)
 
 ## Навигация
 
